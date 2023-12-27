@@ -1,4 +1,4 @@
-#![Uploading hi! i’m ivy.gif…]()
+![Uploading hi! i’m ivy.gif…]()
 ## Hi there 👋
 企管三乙 劉海薇. 
 <!--
