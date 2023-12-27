@@ -1,4 +1,5 @@
-![Uploading hi! i’m ivy.gif…]()
+![hi! i’m ivy](https://github.com/ivycute28/ivycute28/assets/152379916/9cfb6849-7e24-4442-b1e4-696641f398ba)
+
 ## Hi there 👋
 企管三乙 劉海薇. 
 <!--
