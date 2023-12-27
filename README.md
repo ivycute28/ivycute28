@@ -1,14 +1,8 @@
 ![hi! i’m ivy (1)](https://github.com/ivycute28/ivycute28/assets/152379916/067451a0-e597-4cf9-b2fc-99dc7f1ca86e)
 
 ## Hi there 👋
-企管三乙 劉海薇. 
-<!--
-**ivycute28/ivycute28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+嗨！我是企管三乙 410382220 劉海薇. 
+- 🌱 I’m currently learning R, Unity, Python, and github!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
