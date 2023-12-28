@@ -1,3 +1,7 @@
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=100&pause=1000&color=F7ADEB&center=true&vCenter=true&random=false&width=1000&height=100&lines=WELCOME+HERE!!!" alt="Typing SVG" /></a>
+</p>
+
 ![hi! i’m ivy (1)](https://github.com/ivycute28/ivycute28/assets/152379916/067451a0-e597-4cf9-b2fc-99dc7f1ca86e)
 ![hi! i’m ivy (2)](https://github.com/ivycute28/ivycute28/assets/152379916/2e9939cd-aa0b-4301-844c-623f4afc6500)
 
