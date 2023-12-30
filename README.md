@@ -2,8 +2,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=100&pause=1000&color=F7ADEB&center=true&vCenter=true&random=false&width=1000&height=100&lines=WELCOME+HERE!!!" alt="Typing SVG" /></a>
 </p>
 
-![hi! i’m ivy (1)](https://github.com/ivycute28/ivycute28/assets/152379916/067451a0-e597-4cf9-b2fc-99dc7f1ca86e)
-![hi! i’m ivy (2)](https://github.com/ivycute28/ivycute28/assets/152379916/2e9939cd-aa0b-4301-844c-623f4afc6500)
+![未命名設計](https://github.com/ivycute28/ivycute28/assets/152379916/ae64c4ba-f468-49ed-8c03-9416db67b279)
+![未命名設計 (1)](https://github.com/ivycute28/ivycute28/assets/152379916/9f30c840-cf22-45d2-9a24-2d5225fbc97e)
 
 # :wave:Hi there 
 - :raised_hands:嗨！我是企管三乙 410382220 劉海薇. 
@@ -16,14 +16,14 @@
 - :sparkles: 2022.11  參與行政院環保署青年創意徵選獲得銅獎
 - :sparkles: 2022.08  校園店家行銷企劃案
 
-# :bar_chart: My Github Stats
+ # :bar_chart: My Github Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ivycute28&show_icons=true&theme=synthwave">
+	<img src="https://github-readme-stats.vercel.app/api?username=ivycute28&show_icons=true&theme=synthwave">
 </p>
 
-# :headphones: Now Playing (正在播放)
+ # :headphones: Now Playing (正在播放)
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31o5aesnci3vovwjkdphmlmwntke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="600" height="200">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=31o5aesnci3vovwjkdphmlmwntke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="600" height="200">
 </p>
 
 # :iphone: Contact me (聯絡我)
