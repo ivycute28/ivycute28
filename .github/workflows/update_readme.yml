@@ -26,6 +26,10 @@ jobs:
         run: |
           python update_readme.py  # 執行 update_readme.py 腳本來更新 README
 
+      - name: Pull the latest changes from remote
+        run: |
+          git pull origin main --rebase  # 拉取遠端的最新更改
+
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions Bot"
