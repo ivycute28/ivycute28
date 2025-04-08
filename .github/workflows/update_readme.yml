@@ -1,39 +1,31 @@
-name: Update README with Random Chatbot Response
+name: Update README with Chatbot
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # 每 6 小時執行一次
-  workflow_dispatch:  # 允許手動觸發工作流程
+    - cron: "0 */6 * * *"  # 每 6 小時更新一次
+  push:
+    branches:
+      - main  # 當有新 push 時也觸發
 
 jobs:
-  update_readme:
+  update-readme:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.9  # 可以根據需要選擇 Python 版本
+          python-version: "3.x"
 
-      - name: Install dependencies
-        run: |
-          pip install random  # 安裝所需的 Python 模組
-
-      - name: Run Update Readme Script
-        run: |
-          python update_readme.py  # 執行 update_readme.py 腳本來更新 README
-
-      - name: Pull the latest changes from remote
-        run: |
-          git pull origin main --rebase  # 拉取遠端的最新更改
+      - name: Run script to update README
+        run: python update_readme.py
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Bot"
+          git config --global user.email "bot@example.com"
           git add README.md
-          git commit -m "🤖 更新 README 機器人回應" || echo "No changes to commit"
-          git push origin main
+          git commit -m "🤖 更新 README 機器人回應"
+          git push
